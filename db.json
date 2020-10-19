@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodrigo Gonzalez",
+      "email": "rodgonzalez760@gmail.com",
+      "telefono": "11111111",
+      "empresa": "Empresa Rod",
+      "id": 2
+    },
+    {
+      "nombre": "Waco",
+      "email": "waco2020@gmail.com",
+      "telefono": "2222222",
+      "empresa": "waco's business",
+      "id": 3
+    }
+  ]
+}
